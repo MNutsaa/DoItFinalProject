@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 0,
+    "Name": "Nutsa",
+    "Surname": "Murusidze",
+    "IdNumber": "12121212121",
+    "Password": "1452",
+    "Balance": 5,
+    "TransactionHistory": ""
+  },
+  {
+    "Id": 1,
+    "Name": "Ana",
+    "Surname": "Nishnianidze",
+    "IdNumber": "14258741254",
+    "Password": "1212",
+    "Balance": 50,
+    "TransactionHistory": ""
+  }
+,{"Id":3,"Name":"Giorgi","Surname":"Kekelidze","IdNumber":"12345678912","Password":"1690","Balance":0,"TransactionHistory":"\nGiorgi Kekelidze registered 05.03.2024 02:50:19"},
+ {"Id":4,"Name":"Aleksandre","Surname":"Sichinava","IdNumber":"98765432132","Password":"3788","Balance":0,"TransactionHistory":"\nAleksandre Sichinava registered 05.03.2024 03:06:10"},{"Id":5,"Name":"Giorgi","Surname":"Eristavi","IdNumber":"01478520147","Password":"6188","Balance":0,"TransactionHistory":"\nGiorgi Eristavi registered 05.03.2024 11:54:08"},{"Id":6,"Name":"Nutsa","Surname":"Murusidze","IdNumber":"98653298653","Password":"1418","Balance":0,"TransactionHistory":"\nNutsa Murusidze registered 05.03.2024 12:09:46"}]
